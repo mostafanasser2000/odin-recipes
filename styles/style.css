@@ -3,6 +3,7 @@ body{
 }
 .center{
     text-align: center;
+    
 }
 h1 {
     font-family: 'Tangerine';
@@ -44,3 +45,6 @@ h1 {
     background-color: bisque;
 }
 
+a{
+    text-decoration: none;
+}
